@@ -23,4 +23,9 @@ openssl version
 ```bash
 yum -y install ./openssl-1.0.2k-19.el7.x86_64.rpm
 ```
+После проверяем какая у нас стоит версиия 
 
+```bash
+openssl version
+```
+И видим что стоит *openssl 1.1.1w*
