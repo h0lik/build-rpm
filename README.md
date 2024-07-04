@@ -1,6 +1,6 @@
-#Установка openssl в centos - 7.9
-OpenSSL-1.1.1 требуеться для установки пакета OpenSSH 9.7p1 
-Скачиваем пакет openssl 
+# Установка openssl в centos - 7.9
+#### OpenSSL-1.1.1 требуеться для установки пакета OpenSSH 9.7p1 
+#### Скачиваем пакет openssl 
 ```bash
 wget https://github.com/h0lik/build-rpm/raw/main/openssl/openssl-1.0.2k-19.el7.x86_64.rpm
 ```
